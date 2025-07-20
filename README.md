@@ -1,4 +1,5 @@
 # Análise de Tráfego de Rede e Detecção de Ameaças
+**Descrição:** Um projeto prático de análise de tráfego de rede e detecção de ameaças, abordando a geração e captura de dados, exploração manual com Wireshark e automação com scripts Python.
 
 ## Resumo do Projeto
 
